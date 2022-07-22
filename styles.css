@@ -1,1 +1,59 @@
-/* Write your CSS here! */
+h1 {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 40px;
+}
+
+p{
+    line-height: 2;
+}
+
+.sections {
+    text-align: center; 
+}
+
+h3 {
+    text-align: center;
+    margin-bottom: 50px;
+    text-decoration: underline;
+}
+
+h4 {
+    text-decoration: underline;
+}
+
+img {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 300px;
+    height: 200px;
+}
+
+.funParagraph {
+    text-align: center;
+    line-height: 2;
+    color: green;
+}
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+ul li {
+    line-height: 2;
+}
+
+.footer p{
+    line-height: 1;
+}
+
+#mainHeading {
+    color: red;
+}
+
+#experience {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
